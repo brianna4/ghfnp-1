@@ -1,4 +1,6 @@
-# ghfnp-1
+# GitHub for Non-Programmers
 =======
 
 demo repo
+
+*learning, learning
